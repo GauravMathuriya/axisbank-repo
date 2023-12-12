@@ -16,6 +16,7 @@
     </dependency>
   </dependencies>
   <build>
+hello
     <finalName>01-maven-web-app</finalName>
   </build>
 </project>
